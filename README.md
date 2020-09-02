@@ -14,7 +14,7 @@ I love computer science! It's something that fascinates me since I was about 11 
 
 ### Find me at
 * [LinkedIn](https://www.linkedin.com/in/vsmelo/)
-* [victorsmelo.dev](http://www.victorsmelo.dev)
+* [victorsmelo.dev](http://victorsmelo.dev)
 <!--
 **vctrsmelo/vctrsmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
