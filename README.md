@@ -8,7 +8,7 @@
 I love computer science! It's something that fascinates me since I was about 11 years old. I see it as a whole environment where I can develop all my creativity and logical thinking.
 
 ### My Goals
-* 🗺 After I graduated from college (2021), I want to move to another country 🇨🇦 🇬🇧 🇮🇹 🇨🇳 🇺🇸 🇩🇪 🇸🇪
+* 🗺 After I graduated from college (2021), I want to move to another country 🇨🇦 🇬🇧 🇮🇹 🇨🇳 🇺🇸 🇩🇪 🇸🇪 🇫🇷 🇫🇮 
 * 👨🏻‍💻 My career path is about being the best software engineer I can be, specialized in Apple platforms.
 
 
