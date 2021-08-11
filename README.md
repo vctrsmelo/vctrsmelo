@@ -9,7 +9,7 @@ I love computer science! It's something that fascinates me since I was about 11 
 
 ### My Goals
 * 🗺 After I graduated from college (2021), I want to move to another country 🇨🇦 🇬🇧 🇮🇹 🇨🇳 🇺🇸 🇩🇪 🇸🇪 🇫🇷 🇫🇮 
-* 👨🏻‍💻 My career path is about being the best software engineer I can be. Work with hard computer science problems, researching and applying state-of-the-art algorithms.
+* 👨🏻‍💻 My career path is about being the best software engineer I can be, working with hard CS problems, researching and applying state-of-the-art algorithms.
 
 
 ### Find me at
