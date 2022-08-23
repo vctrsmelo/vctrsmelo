@@ -29,7 +29,7 @@ I developed all projects below with the purpose of learning and building my port
 > 💡 You can see all my learning projects [here](https://github.com/vctrsmelo?tab=repositories&q=%23project&type=public)
 
 ### Swift
-* [Breathe-Animation-Replica](https://github.com/vctrsmelo/Breathe-Animation-Replica)
+* <a href="https://github.com/vctrsmelo/Breathe-Animation-Replica" target="_blank">Breathe-Animation-Replica</a>
 * [Instapad](https://github.com/vctrsmelo/instapad)
 * [Photochopp](https://github.com/vctrsmelo/Photochopp)
 * [Playground Image Processing](https://github.com/vctrsmelo/Playground-Image-Processing)
