@@ -13,9 +13,8 @@ I love computer science! It's something that fascinates me since I was about 11 
 
 ### Accomplished Goals
 
-✅ Live abroad (Ireland).
-
-✅ Work for a big tech company (Amazon).
+* ✅ Live abroad (🇮🇪).
+* ✅ Work for a big tech company (Amazon).
 
 
 ### Find me at
