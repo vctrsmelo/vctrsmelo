@@ -4,7 +4,7 @@
 
 ## About Me
 * 🇧🇷 I'm from Brazil, living in Dublin, Ireland 🇮🇪.
-* 👨🏻‍💻 I'm a software development engineer at Amazon.
+* 👨🏻‍💻 I'm a software development engineer at AWS, Amazon.
 * 🎓 I'm a computer science bacharel.
 * 🗄 Previously @ Thoughtworks, Warren Brazil, Apple Developer Academy.
 
