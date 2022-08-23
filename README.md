@@ -5,7 +5,7 @@
 * 🎓 I'm a computer science bacharel.
 * 🗄 Previously @ Thoughtworks, Warren Brazil, Apple Developer Academy.
 
-I love computer science! It's something that fascinates me since I was about 11 years old. I see it as a whole environment where I can develop all my creativity and logical thinking.
+I love computer science! It's something that fascinates me since I was about 11 years old. It is an environment where I can use my creativity and logical thinking.
 
 ### My Goals
 * 🗺 Travel the world 🇨🇦 🇬🇧 🇮🇹 🇨🇳 🇺🇸 🇩🇪 🇸🇪 🇫🇷 🇫🇮 
