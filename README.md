@@ -12,7 +12,9 @@ I love computer science! It's something that fascinates me since I was about 11 
 * 👨🏻‍💻 Become a distinguish engineer.
 
 ### Accomplished Goals
+
 ✅ Live abroad (Ireland).
+
 ✅ Work for a big tech company (Amazon).
 
 
