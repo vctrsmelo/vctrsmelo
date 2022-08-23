@@ -9,7 +9,7 @@ I love computer science! It's something that fascinates me since I was about 11 
 
 ### My Goals
 * 🗺 Travel the world 🇨🇦 🇬🇧 🇮🇹 🇨🇳 🇺🇸 🇩🇪 🇸🇪 🇫🇷 🇫🇮 
-* 👨🏻‍💻 Become a distinguish engineer.
+* 👨🏻‍💻 Become a distinguished engineer.
 
 ### Accomplished Goals
 
