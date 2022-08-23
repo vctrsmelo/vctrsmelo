@@ -1,20 +1,24 @@
 ### Hello, world! I'm Victor 👋
 
-* 🇧🇷 I'm from Brazil.
-* 📱 I'm an iOS software engineer at ThoughtWorks.
-* 🎓 I'm a computer science student at Federal University of Rio Grande do Sul.
-* 🗄 Previously @ Warren, Apple Developer Academy.
+* 🇧🇷 I'm from Brazil, living in Dublin, Ireland.
+* 📱 I'm a software development engineer at Amazon.
+* 🎓 I'm a computer science bacharel.
+* 🗄 Previously @ Thoughtworks, Warren Brazil, Apple Developer Academy.
 
 I love computer science! It's something that fascinates me since I was about 11 years old. I see it as a whole environment where I can develop all my creativity and logical thinking.
 
 ### My Goals
-* 🗺 After I graduated from college (2021), I want to move to another country 🇨🇦 🇬🇧 🇮🇹 🇨🇳 🇺🇸 🇩🇪 🇸🇪 🇫🇷 🇫🇮 
-* 👨🏻‍💻 My career path is about being the best software engineer I can be, working with hard CS problems, researching and applying state-of-the-art algorithms.
+* 🗺 Travel the world 🇨🇦 🇬🇧 🇮🇹 🇨🇳 🇺🇸 🇩🇪 🇸🇪 🇫🇷 🇫🇮 
+* 👨🏻‍💻 Become a distinguish engineer.
+
+### Accomplished Goals
+✅ Live abroad (Ireland).
+✅ Work for a big tech company (Amazon).
 
 
 ### Find me at
 * [LinkedIn](https://www.linkedin.com/in/vsmelo/)
-* [victorsmelo.dev](http://victorsmelo.dev)
+* [victorsmelo.dev](http://victor.dev.br)
 <!--
 **vctrsmelo/vctrsmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
