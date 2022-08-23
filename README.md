@@ -3,8 +3,8 @@
 [LinkedIn](https://www.linkedin.com/in/vsmelo/) | [victor.dev.br](http://victor.dev.br)
 
 ## About Me
-* 🇧🇷 I'm from Brazil, living in Dublin, Ireland.
-* 📱 I'm a software development engineer at Amazon.
+* 🇧🇷 I'm from Brazil, living in Dublin, Ireland 🇮🇪.
+* 👨🏻‍💻 I'm a software development engineer at Amazon.
 * 🎓 I'm a computer science bacharel.
 * 🗄 Previously @ Thoughtworks, Warren Brazil, Apple Developer Academy.
 
