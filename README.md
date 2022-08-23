@@ -1,5 +1,8 @@
-### Hello, world! I'm Victor 👋
+# Hello, world! I'm Victor 👋
 
+[LinkedIn](https://www.linkedin.com/in/vsmelo/) | [victor.dev.br](http://victor.dev.br)
+
+## About Me
 * 🇧🇷 I'm from Brazil, living in Dublin, Ireland.
 * 📱 I'm a software development engineer at Amazon.
 * 🎓 I'm a computer science bacharel.
@@ -7,19 +10,13 @@
 
 I love computer science! It's something that fascinates me since I was about 11 years old. It is an environment where I can use my creativity and logical thinking.
 
-### My Goals
+## My Goals
 * 🗺 Travel the world 🇨🇦 🇬🇧 🇮🇹 🇨🇳 🇺🇸 🇩🇪 🇸🇪 🇫🇷 🇫🇮 
 * 👨🏻‍💻 Become a distinguished engineer.
 
 ### Accomplished Goals
-
 * ✅ Live abroad (🇮🇪).
 * ✅ Work for a big tech company (Amazon).
-
-
-### Find me at
-* [LinkedIn](https://www.linkedin.com/in/vsmelo/)
-* [victorsmelo.dev](http://victor.dev.br)
 
 
 ## Learning Projects
