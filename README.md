@@ -26,6 +26,7 @@ I developed all projects below with the purpose of learning and building my port
 > 💡 You can see all my learning projects [here](https://github.com/vctrsmelo?tab=repositories&q=%23project&type=public)
 
 ### Swift
+* [Time is Money](https://github.com/vctrsmelo/TimeIsMoney)
 * [Breathe-Animation-Replica](https://github.com/vctrsmelo/Breathe-Animation-Replica)
 * [Instapad](https://github.com/vctrsmelo/instapad)
 * [Photochopp](https://github.com/vctrsmelo/Photochopp)
