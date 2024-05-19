@@ -1,6 +1,6 @@
 # Hello, world! I'm Victor 👋
 
-[LinkedIn](https://www.linkedin.com/in/vsmelo/) | [victor.dev.br](http://victor.dev.br)
+[LinkedIn](https://www.linkedin.com/in/vsmelo/) | [vctrsmelo.github.io](http://vctrsmelo.github.io)
 
 ## About Me
 * 🇧🇷 I'm from Brazil, living in Dublin, Ireland 🇮🇪.
@@ -9,15 +9,6 @@
 * 🗄 Previously @ Thoughtworks, Warren Brazil, Apple Developer Academy.
 
 I love computer science! It's something that fascinates me since I was about 11 years old. It is an environment where I can use my creativity and logical thinking.
-
-## My Goals
-* 🗺 Travel the world 🇨🇦 🇬🇧 🇮🇹 🇨🇳 🇺🇸 🇩🇪 🇸🇪 🇫🇷 🇫🇮 
-* 👨🏻‍💻 Become a distinguished engineer.
-
-### Accomplished Goals
-* ✅ Live abroad (🇮🇪).
-* ✅ Work for a big tech company (Amazon).
-
 
 ## Learning Projects
 
