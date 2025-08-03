@@ -4,9 +4,9 @@
 
 ## About Me
 * 🇧🇷 I'm from Brazil, living in Dublin, Ireland 🇮🇪.
-* 👨🏻‍💻 I'm a software development engineer at AWS, Amazon.
+* 👨🏻‍💻 I'm a software development engineer at Google.
 * 🎓 I'm a computer science bacharel.
-* 🗄 Previously @ Thoughtworks, Warren Brazil, Apple Developer Academy.
+* 🗄 Previously worked at AWS and Thoughtworks.
 
 I love computer science! It's something that fascinates me since I was about 11 years old. It is an environment where I can use my creativity and logical thinking.
 
